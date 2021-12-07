@@ -1,6 +1,6 @@
 <meta>
 <!-- Info -->
-    <info author="DioguinScr" version="1.0" name="Util Function for Generate String"/>
+    <info author="DioguinScr" version="1.0" name="Script cruzar bracos"/>
 <!-- Script -->
 	<script src="script/global.lua" type="shared"/>
     <script src="script/client.lua" type="client"/>
